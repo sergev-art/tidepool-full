@@ -1,0 +1,60 @@
+[submodule "services/blip"]
+	path = services/blip
+	url = https://github.com/tidepool-org/blip.git
+[submodule "services/platform"]
+	path = services/platform
+	url = https://github.com/tidepool-org/platform.git
+[submodule "services/clinic"]
+	path = services/clinic
+	url = https://github.com/tidepool-org/clinic.git
+[submodule "services/clinic-worker"]
+	path = services/clinic-worker
+	url = https://github.com/tidepool-org/clinic-worker.git
+[submodule "services/devices"]
+	path = services/devices
+	url = https://github.com/tidepool-org/devices.git
+[submodule "services/export"]
+	path = services/export
+	url = https://github.com/tidepool-org/export.git
+[submodule "services/gatekeeper"]
+	path = services/gatekeeper
+	url = https://github.com/tidepool-org/gatekeeper.git
+[submodule "services/highwater"]
+	path = services/highwater
+	url = https://github.com/tidepool-org/highwater.git
+[submodule "services/hydrophone"]
+	path = services/hydrophone
+	url = https://github.com/tidepool-org/hydrophone.git
+[submodule "services/jellyfish"]
+	path = services/jellyfish
+	url = https://github.com/tidepool-org/jellyfish.git
+[submodule "services/mailer"]
+	path = services/mailer
+	url = https://github.com/tidepool-org/mailer.git
+[submodule "services/message-api"]
+	path = services/message-api
+	url = https://github.com/tidepool-org/message-api.git
+[submodule "services/seagull"]
+	path = services/seagull
+	url = https://github.com/tidepool-org/seagull.git
+[submodule "services/shoreline"]
+	path = services/shoreline
+	url = https://github.com/tidepool-org/shoreline.git
+[submodule "services/tide-whisperer"]
+	path = services/tide-whisperer
+	url = https://github.com/tidepool-org/tide-whisperer.git
+[submodule "services/uploader"]
+	path = services/uploader
+	url = https://github.com/tidepool-org/uploader.git
+[submodule "services/viz"]
+	path = services/viz
+	url = https://github.com/tidepool-org/viz.git
+[submodule "services/tideline"]
+	path = services/tideline
+	url = https://github.com/tidepool-org/tideline.git
+[submodule "services/platform-client"]
+	path = services/platform-client
+	url = https://github.com/tidepool-org/platform-client.git
+[submodule "services/go-common"]
+	path = services/go-common
+	url = https://github.com/tidepool-org/go-common.git
